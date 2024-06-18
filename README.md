@@ -1,6 +1,8 @@
 # 시계열 데이터분석
 ## 카카오 주가 분석 및 예측(한국 금 ETF와의 비교분석)
 
+- 2024년 6월 17일 기준
+
 <img src= 'https://github.com/DianaKang0123/time_series_project/assets/156397873/b4e0dac8-febd-4098-877e-ab461ddfd876' width='250'>
 
 ---
